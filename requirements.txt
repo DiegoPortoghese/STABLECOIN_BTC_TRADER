@@ -1,0 +1,5 @@
+websocket-client==0.57.0
+websocket-client2==1.0
+termcolor==1.1.0
+tabulate==0.8.6
+requests==2.8.1
